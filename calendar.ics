@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION: Gudstjeneste G.2\n\nSted: Hundvåg kirke\nKirketjener: Hanna Brune\nOrganist: Bente Ulvestad\nPrest: Rivoniaina Razakandriana\nDag i kirkeåret: Kristi åpenbaringsdag\nPrekentekst: Joh 12\,42-47\nTilbake More info: https://hundvag.menighet.no/Kalenderdetaljer?Publish=Polo&Att=Nei&EventId=180d6e4b-1a4e-45e4-9d23-90c231b5bcb2&OccurenceId=180d6e4b-1a4e-45e4-9d23-90c231b5bcb2
+LOCATION:Hundvåg kirke
+DTSTART:20250105T100000Z
+SUMMARY: Gudstjeneste G.2\n\nSted: Hundvåg kirke\nKirketjener: Hanna Brune\nOrganist: Bente Ulvestad\nPrest: Rivoniaina Razakandriana\nDag i kirkeåret: Kristi åpenbaringsdag\nPrekentekst: Joh 12\,42-47\nTilbake
+UID:3a44ed87-f0b2-4ef7-b630-72f7bcea4774@3a44.org
+END:VEVENT
+END:VCALENDAR
